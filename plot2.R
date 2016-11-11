@@ -1,6 +1,6 @@
+# make sure to set your working directory to the location of the data and script files
 #
 library(lubridate)
-setwd("~/Coursera/Data Science/Course 4 - Exploratory Data Analysis/Week 1/Project")
 #
 data <-read.table("./household_power_consumption.txt", header=TRUE, sep=";", na.strings = "?")
 #

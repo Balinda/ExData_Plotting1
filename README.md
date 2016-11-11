@@ -1,3 +1,24 @@
+Exploratory Data Analysis Week 1
+================================
+
+There are 8 files for the Week 1 project:
+* Plot1.R
+* Plot1.png
+* Plot2.R
+* Plot2.png
+* Plot3.R
+* Plot3.png
+* Plot4.R
+* Plot4.png
+
+To reproduce, do the following:
+* Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to your default directory
+* Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+* Unzip data to your default directory
+* Source and run the scripts
+
+See assignment below...
+
 ## Introduction
 
 This assignment uses data from
